@@ -1,0 +1,36 @@
+
+.hero-section {
+    
+    background-color: #222;
+}
+
+.hero-text {
+    font-size: 3rem !important;
+}
+
+.custom {
+    background-color: #AC6CFF !important;
+}
+
+.btn-secondary-custom {
+    background-color: #EADAFF !important;
+    color:   #AC6CFF !important;
+}
+
+.boost{
+    color:  #AC6CFF !important; 
+}
+
+.company-section {
+    background-color: #6600cc;
+}
+
+.navbar {
+    background-color: #333 !important;
+}
+
+@media (max-width: 768px) {
+    .hero-text {
+        font-size: 1.5rem;
+    }
+}
